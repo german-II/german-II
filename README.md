@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gheorge Vieira
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning by CS50 course
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... gheorgegbrl@gmail.com
